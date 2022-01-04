@@ -1,10 +1,21 @@
 {
     "name": "atomic-radiation-light",
-    "displayName": "atomic-radiation-light",
-    "description": "An electric lime & light gray theme, created for VS Code, Sublime Text and more.",
-    "version": "0.0.1",
+    "displayName": "atomic-radiation light theme",
+    "description": "An electric lime & light gray theme. Created for VS Code, Sublime Text and more.",
+    "publisher": "travistrotto",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "icon": "icons/ar-icon.png",
+    "author": {
+        "name": "Travis Trotto",
+        "email": "travistrotto@gmail.com",
+        "url": "https://www.linkedin.com/in/travistrotto/"
+    },
+    "repository": {
+        "url": "https://github.com/travistrotto/ar-light-theme.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
