@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "atomic-radiation-light"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# atomic-radiation light
+## An electric lime & light gray theme. Created for VS Code, Sublime Text and more
+Developed by Travis Trotto.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+View the theme's webite here: [www.ar-theme.netlify.app](https://ar-theme.netlify.app)
+
+## Installation Instructions
+* Installation instructions coming soon.
+<!-- * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux) -->
+<!-- * Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets -->
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [My Twitter](https://twitter.com/travistrotto)
+* [My Linkedin](https://www.linkedin.com/in/travistrotto/)
 
 **Enjoy!**
