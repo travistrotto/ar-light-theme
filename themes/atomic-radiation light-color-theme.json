@@ -6,27 +6,11 @@
 		// Base Colors
 		"focusBorder": "#A2AABC",
 		"foreground": "#D0D0C5",
-		// "widget.shadow":"#cbfd03",
 		"selection.background": "#A2AABC",
 		"descriptionForeground": "#D0D0C5",
 		"errorForeground": "#EF6B73",
 		"icon.foreground": "#cbfd03",
 		"sash.hoverBorder":"#cbfd03",
-		
-		//
-		// Window Border
-		// "window.activeBorder": "#cbfd03",
-		// "window.inactiveBorder": "#A2AABC",
-
-		//
-		// Text Colors
-		// "textBlockQuote.background": "#ff0000",
-
-		//
-		// Action Color
-		// "toolbar.activeBackground": "#959696",
-		// "toolbar.hoverOutline": "#fff",
-		// "toolbar.hoverBackground": "#fff",
 		
 		// Button Control
 		"button.background": "#EF6B73",
@@ -73,7 +57,6 @@
 		"sideBar.foreground": "#D0D0C5",
 		"sideBarTitle.foreground": "#fffffe",
 		"sideBarSectionHeader.foreground": "#ffffff",
-		// "sideBarSectionHeader.background": "#959696",
 		"sideBar.dropBackground":"#a2aabcbe",
 
 		// Editor
@@ -269,9 +252,6 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				// "foreground": "#90df6b"
-				// "foreground": "#C3E88D" 
-				// "foreground": "#FFA60A" 
 				"foreground": "#D0D0C5" 
 			}
 		},
