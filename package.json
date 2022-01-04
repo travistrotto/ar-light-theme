@@ -1,0 +1,21 @@
+{
+    "name": "atomic-radiation-light",
+    "displayName": "atomic-radiation-light",
+    "description": "An electric lime & light gray theme, created for VS Code, Sublime Text and more.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "atomic-radiation light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atomic-radiation light-color-theme.json"
+            }
+        ]
+    }
+}
